@@ -1,0 +1,8 @@
+.nyc_output/
+coverage/
+dist/
+docs/api/
+docs/obj/
+docs/out/
+docs/typedoc.json
+node_modules/
